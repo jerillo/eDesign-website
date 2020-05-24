@@ -1,2 +1,2 @@
-# eDesign-website
-Developed a responsive website for the company eDesign using Bootstrap 4 framework
+# Twix Responsive Website
+Developed a responsive website for of my dog Twix using Bootstrap 4 framework
